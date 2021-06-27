@@ -1,4 +1,4 @@
-# Detecting Oral Tongue Lesions using TinyML on Android Platform
+K# Detecting Oral Tongue Lesions using TinyML on Android Platform
 ![GITHUB_ICON](https://user-images.githubusercontent.com/86548417/123553661-3d0fcd00-d785-11eb-8600-9d4c3994070f.jpg)
 
 # PROBLEM STATEMENT
@@ -7,7 +7,7 @@ Detecting Oral Cavity Cancer (OCC) at an early stage is an effective way to incr
 
 The proposed work exemplifies the utilization of TinyML on embedded devices in healthcare applications. 
 
-•	Preliminary results demonstrate that TinyML models can achieve similar performance to traditional ML models for screening oral tongue lesions.Such models can be leveraged as a point of care diagnostic tool via low power embedded devices or on mobile platforms for remote healthcare clinics for detecting early signs of OCC in patients where access to specialized medical resources is limited.
+Preliminary results demonstrate that TinyML models can achieve similar performance to traditional ML models for screening oral tongue lesions.Such models can be leveraged as a point of care diagnostic tool via low power embedded devices or on mobile platforms for remote healthcare clinics for detecting early signs of OCC in patients where access to specialized medical resources is limited.
 
 
 # AI Tongue Doctor v1 App
