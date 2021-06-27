@@ -12,3 +12,5 @@ The proposed work exemplifies the utilization of TinyML on embedded devices in h
 
 # AI Tongue Doctor v1 App
 ![GITHUB_BINARY_v1](https://user-images.githubusercontent.com/86548417/123553927-6bda7300-d786-11eb-96af-b9a89302ba65.jpg)
+
+The app can be used in educational settings and/or as a automated prescreening tool.
