@@ -13,3 +13,10 @@ Preliminary results demonstrate that TinyML models can achieve similar performan
 # AI Tongue Doctor v1 App
 ![GITHUB_BINARY_v1](https://user-images.githubusercontent.com/86548417/123553927-6bda7300-d786-11eb-96af-b9a89302ba65.jpg)
 
+# Contact Details
+
+Dr. Mohammed Zubair PhD (University of Dundee, U.K.)
+Associate Professor / Consultant
+King Khalid University
+Saudi Arabia
+
