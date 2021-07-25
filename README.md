@@ -2,6 +2,9 @@
 ![](https://komarev.com/ghpvc/?username=cognisys-ai&color=green)
 ![GITHUB_ICON](https://user-images.githubusercontent.com/86548417/123553661-3d0fcd00-d785-11eb-8600-9d4c3994070f.jpg)
 
+# RESEARCH PUBLICATION
+https://academic.oup.com/comjnl/advance-article-abstract/doi/10.1093/comjnl/bxaa136/5985297?redirectedFrom=fulltext
+
 # PROBLEM STATEMENT
 
 Detecting Oral Cavity Cancer (OCC) at an early stage is an effective way to increase patient survival rate. However, the current screening process is done manually and is expensive for the average individual, especially in developing countries worldwide. This problem is further compounded due to lack of sufficiently trained physicians and dental specialists in developing countries especially in remote areas, where OCC is widespread. Automating the initial screening process using trained TinyML models deployed on embedded devices for detecting benign and pre-malignant oral tongue lesions can prove to be an effective and inexpensive technique; that can support physicians in their daily clinical duties to triage patients for appropriate clinical care. 
