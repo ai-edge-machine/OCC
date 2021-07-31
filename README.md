@@ -39,7 +39,7 @@ LINK: coming soon
 
 Dr. Mohammed Zubair PhD (University of Dundee, U.K.)
 
-Email : mzshaikh@hotmail.co.uk
+Email : cognaisys@outlook.com
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mzmshamim/)
 
